@@ -1,0 +1,7 @@
+http:
+  port: "8081"
+
+sfdc:
+  username: "gokul@exerptzlab.com"
+  password: "Qwerty@1234"
+  token: "M6KyHBBNo5e89xj0k3OBd2rgZ"
